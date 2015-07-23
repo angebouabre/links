@@ -1,14 +1,19 @@
 # links
 
-http://www.html5rocks.com/fr/tutorials/es6/promises/#disqus_thread
+JS
 
+http://www.html5rocks.com/fr/tutorials/es6/promises/#disqus_thread
 http://googlemaps.googlermania.com/google_maps_api_v3/map_example_direction_customicon.html
 
+CSS
 https://css-tricks.com/guide-svg-animations-smil/
 
 
+NGINX
+https://www.digitalocean.com/community/tutorials/how-to-create-a-ssl-certificate-on-nginx-for-ubuntu-12-04
 
 
 
+FOOD
 http://www.businessinsider.com.au/uber-travis-kalanick-bio-2014-1
 http://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe

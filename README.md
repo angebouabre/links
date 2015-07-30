@@ -17,3 +17,6 @@ https://www.digitalocean.com/community/tutorials/how-to-create-a-ssl-certificate
 FOOD
 http://www.businessinsider.com.au/uber-travis-kalanick-bio-2014-1
 http://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe
+
+PYTHON
+http://www.tutorialspoint.com/python/python_networking.htm

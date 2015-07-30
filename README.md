@@ -21,6 +21,8 @@ FOOD
 http://www.businessinsider.com.au/uber-travis-kalanick-bio-2014-1
 http://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe
 
+http://blog.samaltman.com/employee-equity
+
 PYTHON
 
 http://www.tutorialspoint.com/python/python_networking.htm

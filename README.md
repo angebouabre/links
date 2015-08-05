@@ -13,6 +13,7 @@ https://css-tricks.com/guide-svg-animations-smil/
 NGINX
 
 https://www.digitalocean.com/community/tutorials/how-to-create-a-ssl-certificate-on-nginx-for-ubuntu-12-04
+http://stackoverflow.com/questions/8153875/how-to-deploy-an-https-only-site-with-django-nginx?rq=1
 
 
 

@@ -14,6 +14,7 @@ NGINX
 
 https://www.digitalocean.com/community/tutorials/how-to-create-a-ssl-certificate-on-nginx-for-ubuntu-12-04
 http://stackoverflow.com/questions/8153875/how-to-deploy-an-https-only-site-with-django-nginx?rq=1
+https://ssl.comodo.com/ev-ssl-certificates.php?track=2736&key5sk0=2736&key5sk1=bf0447f862aa0b8774d518a16eaee5a1b8ab7a36
 
 
 

@@ -30,3 +30,4 @@ PYTHON
 http://www.tutorialspoint.com/python/python_networking.htm
 
 https://ccbv.co.uk/projects/Django/1.4/django.views.generic.edit/UpdateView/
+http://www.lexev.org/en/2014/send-email-django-project-mandrill-service/

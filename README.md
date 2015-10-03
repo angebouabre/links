@@ -16,7 +16,8 @@ https://www.digitalocean.com/community/tutorials/how-to-create-a-ssl-certificate
 http://stackoverflow.com/questions/8153875/how-to-deploy-an-https-only-site-with-django-nginx?rq=1
 https://ssl.comodo.com/ev-ssl-certificates.php?track=2736&key5sk0=2736&key5sk1=bf0447f862aa0b8774d518a16eaee5a1b8ab7a36
 
-
+https://www.pastoutdesuite.fr/certificat-ssl-gratuit-avec-startssl-et-nginx/
+https://gist.github.com/revolunet/9d30dc72e02754f0d580
 
 FOOD
 
@@ -24,6 +25,25 @@ http://www.businessinsider.com.au/uber-travis-kalanick-bio-2014-1
 http://blog.gregbrockman.com/figuring-out-the-cto-role-at-stripe
 
 http://blog.samaltman.com/employee-equity
+
+
+
+
+VI
+
+Keyboard Shortcuts:
+
+do - Get changes from other window into the current window.
+
+dp - Put the changes from current window into the other window.
+
+]c - Jump to the next change.
+
+[c - Jump to the previous change.
+
+Ctrl+W, w - Switch to the other split window (CTRL-W CTRL-W does the same thing, in case you let go of the CTRL key a bit later)
+
+
 
 PYTHON
 

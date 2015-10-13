@@ -6,6 +6,7 @@ JS
 
 http://www.html5rocks.com/fr/tutorials/es6/promises/#disqus_thread
 http://googlemaps.googlermania.com/google_maps_api_v3/map_example_direction_customicon.html
+http://www.makumba.org/hudson/job/makumba-documentation/ws/makumba-documentation/doc/libraries/livevalidation-1.3/documentation.html
 
 CSS
 
